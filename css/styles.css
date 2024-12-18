@@ -1,0 +1,29 @@
+:root {
+  --black: #141414;
+  --white: #fbfbfb;
+  --chianti: #7a3145;
+  --blush: #d4bfc4;
+  --green: #576f35;
+  --grey: #858585;
+  --transparent: rgba(20, 20, 20, 0.2);
+  --greenlight: #3cbc81;
+  --smthwrong: #e74a3b;
+}
+h1 {
+  display: none;
+}
+.container {
+}
+ul {
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+}
+.logo-cont {
+  display: flex;
+  padding: 0;
+}
+.head-cont {
+  display: flex;
+}
