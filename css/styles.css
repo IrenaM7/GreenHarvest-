@@ -20,6 +20,9 @@ h1 {
 }
 .container {
 }
+.container.hero {
+  display: flex;
+}
 ul {
   list-style: none;
   margin: 0;
