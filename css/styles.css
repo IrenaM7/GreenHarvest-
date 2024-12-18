@@ -22,6 +22,9 @@ ul {
   text-decoration: none;
   background-color: #3cbc81;
   padding: 12px;
+  box-sizing: border-box;
+  border: 1px solid rgb(251, 251, 251);
+  border-radius: 12px;
 }
 
 .logo-cont {
@@ -38,6 +41,10 @@ ul {
 .menu-list {
   display: flex;
   align-items: center;
+}
+.menu-list {
+  gap: 8px;
+  margin-right: 22px;
 }
 .menu-button {
   border: 1px;
